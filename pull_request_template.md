@@ -10,9 +10,5 @@ see how your change affects other areas of the code, etc.
 - [ ] Checked & updated related docs or pager instructions (if needed) 
 - [ ] Check if the change is compliant with other systems (Mjolnir, Quality Dashboard, etc.)
 
-## How Has This Been Tested?
-Please describe how you tested your changes,
-see how your change affects other areas of the code, etc.
-
 ## Change Management
 Please add link to Jira/Pivotal if available.
