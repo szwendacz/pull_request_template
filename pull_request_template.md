@@ -1,8 +1,9 @@
 ## Description
 Describe your changes in detail. Answer the questions: "what?" and "why?"
 
-## Change Management
-Please add link to Jira/Pivotal if available.
+## How Has This Been Tested?
+Please describe how you tested your changes,
+see how your change affects other areas of the code, etc.
 
 ## Pull Request Checklist
 - [ ] [Release doc](https://goo.gl/3qOJlC) has been updated
@@ -12,3 +13,6 @@ Please add link to Jira/Pivotal if available.
 ## How Has This Been Tested?
 Please describe how you tested your changes,
 see how your change affects other areas of the code, etc.
+
+## Change Management
+Please add link to Jira/Pivotal if available.
