@@ -1,5 +1,5 @@
 ## Description
-Describe your changes in detail. Answer the questions: "what?" and "why?"
+Please describe your changes in detail. Answer the questions: "what?" and "why?"
 
 ## How Has This Been Tested?
 Please describe how you tested your changes,
