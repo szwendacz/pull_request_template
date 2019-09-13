@@ -1,12 +1,8 @@
-
-<!--- Provide a general summary of your changes in the Title above -->
-
-
 ## Description
-<!--- Describe your changes in detail. Answer the questions: "what?" and "why?" -->
+Describe your changes in detail. Answer the questions: "what?" and "why?"
 
 ## Change Management
-<!--- Please add link to Jira/Pivotal if available -->
+Please add link to Jira/Pivotal if available
 
 ## Pull Request Checklist
 - [ ] [Release doc](https://goo.gl/3qOJlC) has been updated
@@ -14,8 +10,8 @@
 - [ ] Check if the change is compliant with other systems (Mjolnir, Quality Dashboard, etc.)
 
 ## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- see how your change affects other areas of the code, etc. -->
+Please describe how you tested your changes,
+see how your change affects other areas of the code, etc.
 
 ## Types of changes
 <!--- What types of changes does your code introduce? Remove ones that don't apply. -->
