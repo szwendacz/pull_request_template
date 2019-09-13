@@ -6,7 +6,7 @@ Please add link to Jira/Pivotal if available.
 
 ## Pull Request Checklist
 - [ ] [Release doc](https://goo.gl/3qOJlC) has been updated
-- [ ] Checked & updated related docs or pager instructions
+- [ ] Checked & updated related docs or pager instructions (if needed) 
 - [ ] Check if the change is compliant with other systems (Mjolnir, Quality Dashboard, etc.)
 
 ## How Has This Been Tested?
