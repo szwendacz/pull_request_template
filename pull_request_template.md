@@ -2,7 +2,7 @@
 Describe your changes in detail. Answer the questions: "what?" and "why?"
 
 ## Change Management
-Please add link to Jira/Pivotal if available
+Please add link to Jira/Pivotal if available.
 
 ## Pull Request Checklist
 - [ ] [Release doc](https://goo.gl/3qOJlC) has been updated
